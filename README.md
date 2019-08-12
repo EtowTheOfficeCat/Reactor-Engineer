@@ -5,7 +5,9 @@ Hi there EtowTheOfficeCat Here! Today i´ll present you my current VR Game proje
 ![](https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif)
 
 # About the project
-I decided to make this little game because I love Engineering games, having to repair and manage systems but also ofc to improuve my VR programming, mostly in  creating different interactions ( Pushing buttons / Opening panels / exchanging objects / repairing Objects etc...) The Game idea is rather simple. The Player has to manage a reactor, producting energy and repairing components.
+I decided to make this little game because I love Engineering games in which you have to repair and manage systems, but also to improuve my VR programming mainly in creating different interactions ( Pushing buttons / Opening panels / exchanging objects / repairing Objects etc...) 
+
+The Game idea is rather simple. The Player has to manage a reactor, producting energy and repairing its components.
 
 # Concept Art
 
