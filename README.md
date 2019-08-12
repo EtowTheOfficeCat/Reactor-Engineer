@@ -13,7 +13,9 @@ I decided to make this little game because I love Engineering games, having to r
 
 This Should give you a more clear Idea of how the game will look like. This there is the Reactor Control Panel from where the player will do most of the interaction with the reactor output and the reactor temperature.
 
-All Programms and Assets are my own creations!
+as you can see it has a large array of buttons for the player to push as well as places for UI to inform the player about the reactors current status. 
+
+All Programms and Assets are my own creations!:)
 
 I will Hopefully Upload more about this project soon!!Stay Tuned :D
 
